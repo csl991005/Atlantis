@@ -1,0 +1,10 @@
+Gin:
+  Mode: debug
+  Port: :3000
+
+Gorm:
+  DbUser: root
+  DbPassword: 123456
+  DbHost: localhost
+  DbPort: 3306
+  DbName: atlantis
